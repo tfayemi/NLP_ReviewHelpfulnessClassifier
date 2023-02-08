@@ -4,6 +4,10 @@
 
 A collection of machine learning models trained on the Amazon's 2018 Review Data to predict wether a product review (free text) will be helpful or unhelpful for other potential buyers.
 
+Pre-Step:
+
+Download ![Stanford's GloVe 100d word embeddings](https://www.kaggle.com/datasets/danielwillgeorge/glove6b100dtxt) (glove.6B.100d.txt) and store it in the same /helpful directory.
+
 How To Use: 
 1. Download the ‘helpful’ package and store it wherever you’d like. 
 
